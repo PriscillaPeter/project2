@@ -1,5 +1,5 @@
 # https://www.zditect.com/code/python/creating-a-simple-calculator-application-with-tkinter-in-python.html
-#final results of my calculator were help from various codes on the web but the base start was this code here.
+#final results of my calculator were help from various codes being modified, adding removing and restarting, but the base start was this code here.
 import tkinter as tk
 
 
